@@ -1,0 +1,10 @@
+Coord-09 ; 01-02 ;       ;       ;       ;       ; ab 
+Coord-00 ;       ;       ;       ;       ;       ; a
+Coord-07 ;       ;       ; 03-06 ;       ;       ; abcd 
+Coord-01 ; 01-02 ;       ;       ;       ;       ; a  
+Coord-05 ;       ;       ;       ;       ; 05-10 ; abcdt     
+Coord-08 ;       ; 02-04 ;       ;       ;       ; abc
+Coord-07 ;       ;       ; 03-06 ;       ;       ; abcd 
+Coord-02 ;       ; 02-04 ;       ;       ;       ; ab
+Coord-07 ;       ;       ; 03-06 ;       ;       ; abcd 
+Coord-01 ; 01-02 ;       ;       ;       ;       ; a  
